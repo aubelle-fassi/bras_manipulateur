@@ -15,15 +15,10 @@ Ce projet vise à concevoir un bras manipulateur robotisé à 6 degrés de liber
 - MATLAB/Simulink, Proteus, OpenCV (Python)
 - Logiciel 3D : SketchUp
 
-   Dossiers du projet
+   fichiers du projet
 - `stl/` : pièces modélisées en 3D
 - `code/` : scripts Arduino et MATLAB
 - `proteus/` : fichiers de simulation .pdsprj
-
-
-
-  Aperçu
-![aperçu du bras](images/capture_bras.png)
 
    Ressources
  - [Dossier complet du projet](https://drive.google.com/...)
