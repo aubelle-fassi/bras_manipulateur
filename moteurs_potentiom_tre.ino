@@ -2,7 +2,7 @@
 
 // definition des objets de la classe Servo
 Servo servo1A, servo1B; 
-Servo servo2, servo3, servo4, servo5, servo6;
+Servo servo2, servo3, servo4, servo5;
 
 
 int pinServo1A = 3;
