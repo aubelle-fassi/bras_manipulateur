@@ -6,7 +6,7 @@ syms theta1 theta2 theta3 theta4 theta5 theta6
 L1 = 3;
 L2 = 25;
 L3 = 117.3;
-L6= 6
+L6= 6;
 
 % Paramètres DH : [theta d a alpha]
 DH = [...
