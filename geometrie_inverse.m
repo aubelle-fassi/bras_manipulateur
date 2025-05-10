@@ -1,3 +1,4 @@
+%calcul des coordonnées articulaires des 3 premières articulations
 function [q1, q2, q3, isPossible] = geometrie_inverse(x, y, z, L1, L2, L3)
    
     
