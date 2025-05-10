@@ -4,7 +4,7 @@ import glob
 
 # Dimensions du damier
 pattern_size = (8, 6)  # nombre de coins intérieurs par ligne et colonne
-square_size = 0.025  # taille d'une case en mètres (par exemple, 2.5 cm)
+square_size = 0.025  # en mètres 
 
 # Préparation des points 3D dans le monde réel
 objp = np.zeros((pattern_size[0]*pattern_size[1], 3), np.float32)
