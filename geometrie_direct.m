@@ -2,19 +2,20 @@ clc; clear; close all;
 
 syms theta1 theta2 theta3 theta4 theta5 theta6
 
-% Longueurs en mm
-L1 = 100;
-L2 = 100;
-L3 = 50;
+% Longueurs en cm
+L1 = 3;
+L2 = 25;
+L3 = 117.3;
+L6= 6
 
 % Paramètres DH : [theta d a alpha]
 DH = [...
     theta1   0    0    pi/2;
-    theta2   0   L1     0;
+    theta2   L1    0  -pi/2;
     theta3   0   L2     0;
-    theta4   0    0    pi/2;
-    theta5   0    0   -pi/2;
-    theta6  L3    0     0];
+    theta4   0    0   -pi/2;
+    theta5   0    0    pi/2;
+    theta6   L6    0     0];
 
 % Fonction pour créer la matrice DH
 dh_transform = @(theta, d, a, alpha) [...
