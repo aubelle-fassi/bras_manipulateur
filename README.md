@@ -21,7 +21,7 @@ Ce projet vise à concevoir un bras manipulateur robotisé à 6 degrés de liber
 - `proteus/` : fichiers de simulation .pdsprj
 
    Ressources
- - [Dossier complet du projet]
+ - Dossier complet du projet 
 
   Statut
 Projet en cours – version préliminaire des fichiers STL et de la simulation terminée. Les étapes de commande et vision par ordinateur sont en cours.
