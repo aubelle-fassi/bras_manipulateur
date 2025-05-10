@@ -17,11 +17,11 @@ Ce projet vise à concevoir un bras manipulateur robotisé à 6 degrés de liber
 
    fichiers du projet
 - `stl/` : pièces modélisées en 3D
-- `code/` : scripts Arduino et MATLAB
+- `code/` : scripts Arduino python et MATLAB 
 - `proteus/` : fichiers de simulation .pdsprj
 
    Ressources
- - [Dossier complet du projet](https://drive.google.com/...)
+ - [Dossier complet du projet]
 
   Statut
 Projet en cours – version préliminaire des fichiers STL et de la simulation terminée. Les étapes de commande et vision par ordinateur sont en cours.
